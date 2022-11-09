@@ -20,8 +20,9 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
  
 #### 2. Consistent Video Composition
 
-  
-
++ Yoni Kasten, Dolev Ofri, Oliver Wang, Tali Dekel: "*Layered neural atlases for consistent video editing.*" ACM Transactions on Graphics (2021) [[arXiv]](https://arxiv.org/pdf/2109.11418.pdf) [[code]](https://layered-neural-atlases.github.io/)
++ Vickie Ye, Zhengqi Li, Richard Tucker, Angjoo Kanazawa, Noah Snavely: "*Deformable Sprites for Unsupervised Video Decomposition.*" CVPR (2022) [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Ye_Deformable_Sprites_for_Unsupervised_Video_Decomposition_CVPR_2022_paper.pdf) [[code]](https://github.com/vye16/deformable-sprites)
+ 
 
 ## Datasets
 + **HYouTube**: It is built upon large-scale video object segmentation dataset Youtube-VOS-2018. It includes 3194 pairs of synthetic composite video samples and real video samples, which are split to 2558 training pairs and 636 test pairs. Each video sample contains 20 consecutive frames with the foreground mask for each frame.   [[pdf]](https://arxiv.org/pdf/2205.00687.pdf) [[link]](https://github.com/bcmi/Video-Harmonization-Dataset-HYouTube)
